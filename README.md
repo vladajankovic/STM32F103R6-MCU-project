@@ -1,5 +1,7 @@
 # STM32F103R6-Proteus-project
 
+(/assets/proteus_project.PNG)
+
 ### Tools used in project:
 - Proteus 8 Professional
 - STM32CubeMX
