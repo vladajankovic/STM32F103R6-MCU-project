@@ -1,4 +1,4 @@
-# STM32F103R6-Proteus-project
+# STM32F103R6-MCU-project
 
 ![project!](/assets/proteus_project.PNG)
 
